@@ -9,7 +9,7 @@ gunicorn
 torch==2.0.0+cpu
 torchvision==0.15.1+cpu
 #conda install pytorch torchvision torchaudio cpuonly -c pytorch
-git+https://github.com/facebookresearch/detectron2.git
-
+#git+https://github.com/facebookresearch/detectron2.git
+#python=3.10
 
 
